@@ -1,5 +1,6 @@
 // 피보나치 수열
 // n의 범위 0~100000
+//재귀함수의 시간복잡도 O(2^n) >>다른방식으로 짜야한다
 import java.math.BigInteger
 
 class Solution {
